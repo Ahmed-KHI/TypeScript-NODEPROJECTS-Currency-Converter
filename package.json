@@ -1,0 +1,21 @@
+{
+  "name": "typescript-nodeprojects-currency-converter",
+  "version": "1.0.0",
+  "description": "This TypeScript code creates a user-friendly command-line currency converter application called 'Artificialvolutionize'. It allows users to easily convert between various currencies.",
+  "main": "currencify.js",
+  "type": "module",
+  "bin": "currencify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Command-line currency converter","JavaScript","User interaction","Inquirer.js","Currency selection","Exchange rates","Conversion calculation","USD base currency","Formatted output","Chalk","Readability","User-friendly"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
